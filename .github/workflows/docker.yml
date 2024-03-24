@@ -14,7 +14,7 @@ on:
 
 env:
   APP_NAME: feiyangdigital-bot
-  DOCKERHUB_REPO: youshandefeiyang/feiyangdigital-bot
+  DOCKERHUB_REPO: muxiyun/feiyangdigital-bot
 
 jobs:
   docker:
